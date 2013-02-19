@@ -1,4 +1,4 @@
-package lhc.webim.filter;
+package lhc.webim.common.filter;
 
 import java.io.IOException;
 
